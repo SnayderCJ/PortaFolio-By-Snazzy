@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:ital,wght@0,300;0,400;0,600;0,800;1,100&display=swap");
+
+.color1 {color: #112833;}
+.color2 {color: #0e5367;}
+.color3 {color: #098ba8;}
+.color4 {color: #03d2f5;}
+.color5 {color: #0ffff8;}
+
+* {
+  box-sizing: border-box;
+  font-family: "Work Sans";
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background: #112833;
+}
